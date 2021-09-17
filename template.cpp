@@ -5,6 +5,8 @@
 #include<map>
 #include<ios>
 #include<iomanip> 
+#include<cmath>
+#include<limits>
 #include<algorithm>
 
 using namespace std;
